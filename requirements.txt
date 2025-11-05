@@ -10,3 +10,4 @@ python-dotenv
 pyaudio
 SpeechRecognition
 soundfile
+openai-whisper
